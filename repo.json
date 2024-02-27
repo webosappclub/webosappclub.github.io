@@ -1,0 +1,406 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+    {
+      "id": "com.ottplay.app",
+      "title": "Ott-play",
+      "iconUri": "https://webosappclub.github.io/apps/com.ottplay.app/icon.png",
+      "manifest": {
+        "id": "com.ottplay.app",
+        "version": "0.2.2",
+        "type": "web",
+        "title": "Ott-play",
+        "appDescription": "Ott-play by Alex IPTV player",
+        "iconUri": "https://webosappclub.github.io/apps/com.ottplay.app/icon.png",
+        "sourceUrl": "http://ott-play.com/",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/com.ottplay.app/com.ottplay.app_0.2.2_all.ipk",
+        "ipkHash": {
+          "sha256": "edc75d1b0606f81c3b930457643b2f0c314c0e64d536390b4019b30d45735199"
+        },
+        "ipkSize": 329544
+      },
+      "shortDescription": "IPTV player",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.ottplay.app/index.html"
+    },
+    {
+      "id": "com.lampa.tv",
+      "title": "Lampa",
+      "iconUri": "https://webosappclub.github.io/apps/com.lampa.tv/icon.png",
+      "manifest": {
+        "id": "com.lampa.tv",
+        "version": "1.4.1",
+        "type": "web",
+        "title": "Lampa",
+        "appDescription": "Lampa app",
+        "iconUri": "https://webosappclub.github.io/apps/com.lampa.tv/icon.png",
+        "sourceUrl": "https://github.com/yumata/lampa",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/yumata/lampa/releases/download/v1.4.1/lampa_v1.4.1.ipk",
+        "ipkHash": {
+          "sha256": "f897172241f0fa3b7a909623154490cf8d2efebb1b538ec72be6b6bacaedb929"
+        },
+        "ipkSize": 7021158
+      },
+      "shortDescription": "Movie catalog",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.lampa.tv/index.html"
+    },
+    {
+      "id": "icva",
+      "title": "ICVA",
+      "iconUri": "https://webosappclub.github.io/apps/icva/icon.png",
+      "manifest": {
+        "id": "icva",
+        "version": "1.1.2",
+        "type": "web",
+        "title": "ICVA", 
+        "appDescription": "ICVA IPTV player",
+        "iconUri": "https://webosappclub.github.io/apps/icva/icon.png",
+        "sourceUrl": "https://github.com/yumata/lampa/",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/yumata/lampa/releases/download/v1.4.1/icva_v1.1.2.ipk",
+        "ipkHash": {
+          "sha256": "156089221bafa14553c01ecbd60264b863d9cbbe75e8b9f031e1fce51db0a647"
+        },
+        "ipkSize": 5917966
+      },
+      "shortDescription": "IPTV player",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/icva/index.html"
+    },	
+    {
+      "id": "torrserv.matrix.app",
+      "title": "Torrserver MatriX",
+      "iconUri": "https://webosappclub.github.io/apps/torrserv.matrix.app/icon.png",
+      "manifest": {
+        "id": "torrserv.matrix.app",
+        "version": "0.3.6",
+        "type": "native",
+        "title": "Torrserver MatriX",
+        "appDescription": "Torrent stream server for webOS",
+        "iconUri": "https://webosappclub.github.io/apps/torrserv.matrix.app/icon.png",
+        "sourceUrl": "https://github.com/YouROK/TorrServer",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/torrserv.matrix.app/torrserv.matrix.app_0.3.6_all.ipk",
+        "ipkHash": {
+          "sha256": "013e98c0f0d39f2351961f1a292db0f043ff61354e39e89813dfc4ca19a74fb0"
+        },
+        "ipkSize": 14572046
+      },
+      "shortDescription": "Torrent stream server for webOS",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/torrserv.matrix.app/index.html"
+    },
+    {
+      "id": "wikipedia.app",
+      "title": "Wikipedia",
+      "iconUri": "https://webosappclub.github.io/apps/wikipedia.app/icon.png",
+      "manifest": {
+        "id": "wikipedia.app",
+        "version": "0.0.4",
+        "type": "web",
+        "title": "Wikipedia",
+        "appDescription": "",
+        "iconUri": "https://webosappclub.github.io/apps/wikipedia.app/icon.png",
+        "sourceUrl": "",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/wikipedia.app/wikipedia.app_0.0.4_all.ipk",
+        "ipkHash": {
+          "sha256": "25087247cc6d810a2f50c342c8212e2c21ca23aa7b2bcd54b830daa9325bd79a"
+        },
+        "ipkSize": 302412
+      },
+      "shortDescription": "Wikipedia application",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/wikipedia.app/index.html"
+    },    
+    {
+      "id": "webos.screen.off",
+      "title": "Screen OFF",
+      "iconUri": "https://webosappclub.github.io/apps/webos.screen.off/icon.png",
+      "manifest": {
+        "id": "webos.screen.off",
+        "version": "1.0.5",
+        "type": "native",
+        "title": "Screen OFF",
+        "appDescription": "1-click screen OFF",
+        "iconUri": "https://webosappclub.github.io/apps/webos.screen.off/icon.png",
+        "sourceUrl": "",
+        "rootRequired": true,
+        "ipkUrl": "https://webosappclub.github.io/apps/webos.screen.off/webos.screen.off_1.0.5_all.ipk",
+        "ipkHash": {
+          "sha256": "c0e06418d819d06e60cf05fe2731751b2bf5bae6768ef1a669aecc4cdba4c7e5"
+        },
+        "ipkSize": 91218
+      },
+      "shortDescription": "1-click screen OFF",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/webos.screen.off/index.html"
+    },    
+    {
+      "id": "webos.energy.saving",
+      "title": "Экономия энергии",
+      "iconUri": "https://webosappclub.github.io/apps/webos.energy.saving/icon.png",
+      "manifest": {
+        "id": "webos.energy.saving",
+        "version": "3.0.1",
+        "type": "native",
+        "title": "Экономия энергии",
+        "appDescription": "Настройка экономии энергии",
+        "iconUri": "https://webosappclub.github.io/apps/webos.energy.saving/icon.png",
+        "sourceUrl": "",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/webos.energy.saving_3.0.1.ipk",
+        "ipkHash": {
+          "sha256": "cc75738dd6db3447f55af400d39b357bd2e2457582b5f7dce5072b03048e5e6f"
+        },
+        "ipkSize": 72296
+      },
+      "shortDescription": "app",
+      "fullDescriptionUrl": "na"
+    },
+    {
+      "id": "spotify-beehive",
+      "title": "Spotify",
+      "iconUri": "https://webosappclub.github.io/apps/spotify-beehive/icon.png",
+      "manifest": {
+        "id": "spotify-beehive",
+        "version": "2.0.28",
+        "type": "web",
+        "title": "Spotify",
+        "appDescription": "Official Spotify app",
+        "iconUri": "https://webosappclub.github.io/apps/spotify-beehive/icon.png",
+        "sourceUrl": "https://spotify.com",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/spotify-beehive/spotify-beehive_2.0.28_all.ipk",
+        "ipkHash": {
+          "sha256": "b0cc46de33b332f1b4ba2b85519b0cefbb8c43fa39f63df45912b224fbcd7d74"
+        },
+        "ipkSize": 5971556
+      },
+      "shortDescription": "Official Spotify app",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/spotify-beehive/"
+    },
+    {
+      "id": "ru.rt.video.app.tv",
+      "title": "Wink",
+      "iconUri": "https://webosappclub.github.io/apps/ru.rt.video.app.tv/icon.png",
+      "manifest": {
+        "id": "ru.rt.video.app.tv",
+        "version": "5.34.6",
+        "type": "web",
+        "title": "Wink",
+        "appDescription": "Official Wink app",
+        "iconUri": "https://webosappclub.github.io/apps/ru.rt.video.app.tv/icon.png",
+        "sourceUrl": "https://wink.ru",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/ru.rt.video.app.tv/ru.rt.video.app.tv_5.34.6_all.ipk",
+        "ipkHash": {
+          "sha256": "c670d4254dbccf173f80039a41f05a009c87154b17310fafdec4369274ca1ec2"
+        },
+        "ipkSize": 326386
+      },
+      "shortDescription": "Official Wink app",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/ru.rt.video.app.tv/"
+    },
+    {
+      "id": "yota.play",
+      "title": "Okko",
+      "iconUri": "https://webosappclub.github.io/apps/yota.play/icon.png",
+      "manifest": {
+        "id": "yota.play",
+        "version": "22.0.0",
+        "type": "web",
+        "title": "Okko",
+        "appDescription": "Official Okko app",
+        "iconUri": "https://webosappclub.github.io/apps/yota.play/icon.png",
+        "sourceUrl": "https://okko.tv",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/yota.play/yota.play_22.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "bbea024ebb37ea1b19a5667e19769695cac52e671dd5d053644ef51e00376c2f"
+        },
+        "ipkSize": 201202
+      },
+      "shortDescription": "Official Okko app",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/yota.play/"
+    },
+    {
+      "id": "com.685631.3411",
+      "title": "Kinopoisk",
+      "iconUri": "https://webosappclub.github.io/apps/com.685631.3411/icon.png",
+      "manifest": {
+        "id": "com.685631.3411",
+        "version": "10.140.0",
+        "type": "web",
+        "title": "Kinopoisk",
+        "appDescription": "Official Kinopoisk app",
+        "iconUri": "https://webosappclub.github.io/apps/com.685631.3411/icon.png",
+        "sourceUrl": "https://hd.kinopoisk.ru/",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/com.685631.3411/com.685631.3411_10.140.0_all.ipk",
+        "ipkHash": {
+          "sha256": "95a0dbcbdf47888f83de8362333f806c6fafdc9527968ab78c59e995caf6c73c"
+        },
+        "ipkSize": 2076526
+      },
+      "shortDescription": "Official Kinopoisk app",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.685631.3411/"
+    },
+    {
+      "id": "com.boosteroidtv.streaming",
+      "title": "Boosteroid Cloud Gaming",
+      "iconUri": "https://webosappclub.github.io/apps/com.boosteroidtv.streaming/icon.png",
+      "manifest": {
+        "id": "com.boosteroidtv.streaming",
+        "version": "1.0.1",
+        "type": "web",
+        "title": "Boosteroid Cloud Gaming",
+        "appDescription": "Official Boosteroid Cloud Gaming app",
+        "iconUri": "https://webosappclub.github.io/apps/com.boosteroidtv.streaming/icon.png",
+        "sourceUrl": "https://boosteroid.com/",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/com.boosteroidtv.streaming/com.boosteroidtv.streaming_1.0.1_all.ipk",
+        "ipkHash": {
+          "sha256": "67fb17150842bebc316e563ddfa4ce44cc694d6016a931d6bae6ce555f46f66d"
+        },
+        "ipkSize": 7378932
+      },
+      "shortDescription": "Official Boosteroid Cloud Gaming app",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.boosteroidtv.streaming/"
+    },
+    {
+      "id": "lgsmarttv",
+      "title": "Zala Yasna",
+      "iconUri": "https://webosappclub.github.io/apps/lgsmarttv/icon.png",
+      "manifest": {
+        "id": "lgsmarttv",
+        "version": "2.0.12",
+        "type": "web",
+        "title": "Zala Yasna",
+        "appDescription": "Official Zala Yasna app",
+        "iconUri": "https://webosappclub.github.io/apps/lgsmarttv/icon.png",
+        "sourceUrl": "http://zala.by/internet-tv-zala",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/lgsmarttv/lgsmarttv_2.0.12_all.ipk",
+        "ipkHash": {
+          "sha256": "24493d3e6e228d0846434ba5094162c95665683977481184a7728d953c099356"
+        },
+        "ipkSize": 112650
+      },
+      "shortDescription": "Official Zala Yasna app",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/lgsmarttv/"
+    },
+    {
+      "id": "com.geforcenow.play",
+      "title": "NVIDIA GeForce® NOW™",
+      "iconUri": "https://webosappclub.github.io/apps/com.geforcenow.play/icon.png",
+      "manifest": {
+        "id": "com.geforcenow.play",
+        "version": "1.0.3",
+        "type": "web",
+        "title": "NVIDIA GeForce® NOW™ ",
+        "appDescription": "Official NVIDIA GeForce® NOW™ app",
+        "iconUri": "https://webosappclub.github.io/apps/com.geforcenow.play/icon.png",
+        "sourceUrl": "https://www.nvidia.com/en-eu/geforce-now/",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/com.geforcenow.play/com.geforcenow.play_1.0.3_all.ipk",
+        "ipkHash": {
+          "sha256": "e9b1b994bc54ef381311ee006dc981d4bebd163f56b8f225bbae5d357b04652b"
+        },
+        "ipkSize": 79764
+      },
+      "shortDescription": "Official NVIDIA GeForce® NOW™ app",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.geforcenow.play/"
+    },
+    {
+      "id": "com.tidal.tv",
+      "title": "TIDAL",
+      "iconUri": "https://webosappclub.github.io/apps/com.tidal.tv/icon.png",
+      "manifest": {
+        "id": "com.tidal.tv",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "TIDAL",
+        "appDescription": "Official TIDAL app",
+        "iconUri": "https://webosappclub.github.io/apps/ccom.tidal.tv/icon.png",
+        "sourceUrl": "https://tidal.com/",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/com.tidal.tv/com.tidal.tv_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "c8554c0b8156aaf5c6ce65259e0ac82a1b8e43204b90c42ee88f3f94831eabf4"
+        },
+        "ipkSize": 1087184
+      },
+      "shortDescription": "Official TIDAL app",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.tidal.tv/"
+    },
+    {
+      "id": "com.huawei.app.webos.mts.tv.production",
+      "title": "KION",
+      "iconUri": "https://webosappclub.github.io/apps/com.huawei.app.webos.mts.tv.production/icon.png",
+      "manifest": {
+        "id": "com.huawei.app.webos.mts.tv.production",
+        "version": "3.1.4",
+        "type": "web",
+        "title": "KION",
+        "appDescription": "Official KION app",
+        "iconUri": "https://webosappclub.github.io/apps/com.huawei.app.webos.mts.tv.production/icon.png",
+        "sourceUrl": "https://kion.ru/",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/com.huawei.app.webos.mts.tv.production/com.huawei.app.webos.mts.tv.production_3.1.4_all.ipk",
+        "ipkHash": {
+          "sha256": "08283d382fe11a64eaef44eaec9a424c9402564eaa4da696f9990e18bdd75756"
+        },
+        "ipkSize": 3692434
+      },
+      "shortDescription": "Official KION app",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.huawei.app.webos.mts.tv.production/"
+    },
+    {
+      "id": "siptv",
+      "title": "Smart IPTV",
+      "iconUri": "https://webosappclub.github.io/apps/siptv/icon.png",
+      "manifest": {
+        "id": "siptv",
+        "version": "3.0.3",
+        "type": "web",
+        "title": "Smart IPTV",
+        "appDescription": "Smart IPTV",
+        "iconUri": "https://webosappclub.github.io/apps/siptv/icon.png",
+        "sourceUrl": "https://siptv.eu/",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/siptv/siptv_3.0.3_all.ipk",
+        "ipkHash": {
+          "sha256": "f793e42fb3e0a35460c3a7f12bc55beb7228ff53f814aa76d3fc38a1bfe49372"
+        },
+        "ipkSize": 583892
+      },
+      "shortDescription": "Smart IPTV app",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/siptv/"
+    },
+    {
+      "id": "vkvideo",
+      "title": "VK Video",
+      "iconUri": "https://webosappclub.github.io/apps/vkvideo/icon.png",
+      "manifest": {
+        "id": "vkvideo",
+        "version": "1.3.13",
+        "type": "web",
+        "title": "VK Video",
+        "appDescription": "VK Video",
+        "iconUri": "https://webosappclub.github.io/apps/vkvideo/icon.png",
+        "sourceUrl": "https://vk.com/vkvideo",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/vkvideo/vkvideo_1.3.13_all.ipk",
+        "ipkHash": {
+          "sha256": "56388d8d32f56b6803b4b7bb083c36afc92c0efd194a71155ac64e442e89be8d"
+        },
+        "ipkSize": 2326962
+      },
+      "shortDescription": "VK Video",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/vkvideo/"
+    }  
+  ]
+}
