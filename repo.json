@@ -151,7 +151,7 @@
         "iconUri": "https://webosappclub.github.io/apps/webos.energy.saving/icon.png",
         "sourceUrl": "",
         "rootRequired": false,
-        "ipkUrl": "https://webosappclub.github.io/apps/webos.energy.saving_3.0.1.ipk",
+        "ipkUrl": "https://webosappclub.github.io/apps/webos.energy.saving/webos.energy.saving_3.0.1.ipk",
         "ipkHash": {
           "sha256": "cc75738dd6db3447f55af400d39b357bd2e2457582b5f7dce5072b03048e5e6f"
         },
