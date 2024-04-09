@@ -1,0 +1,36 @@
+{
+  "name": "Service Menu",
+  "headline": "for LG webOS TVs",
+  "version": "1.0.0",
+  "parameter": "content:https://webosappclub.github.io/msx/start.json",
+  "action": "[settings:validate_links:0|home]",
+  "dictionary": "https://webosappclub.github.io/msx/lang/ru.json",
+   "template": {
+      "layout": "0,0,3,3",
+      "align": "center",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+            "title":"",
+            "headline": "ezAdjust SERVICE MENU",
+            "image": "",
+            "text": "ezAdjust, inStart, inStop",
+            "action": "link:https://webosappclub.github.io/msx/ezadjust/ezadjust.html"
+      },
+      {
+            "title":"",
+            "headline": "ezAdjust SERVICE MENU",
+            "image": "",
+            "text": "inStart",
+            "action": "link:https://webosappclub.github.io/msx/instart/instart.html"
+      },
+      {
+            "title":"",
+            "headline": "ezAdjust SERVICE MENU",
+            "image": "",
+            "text": "inStop",
+            "action": "link:https://webosappclub.github.io/msx/instop/instop.html"
+      }	  
+   ]
+}

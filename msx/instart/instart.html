@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title></title>
+  <meta name="viewport" charset="UTF-8" content="width=device-width, initial-scale=1, user-scalable=yes, minimum-scale=1.0">
+  
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta property="og:title" content="">
+  <meta property="og:description" content="">
+  <meta property="og:image" content="">
+  <meta name="twitter:card" content="summary_large_image">
+</head>
+
+<body>
+  	<script src="webOSTV.js" charset="utf-8"></script>
+	<script src="webOSTV-dev.js" charset="utf-8"></script>
+  <script>
+  
+       var request = webOS.service.request("luna://com.webos.applicationManager", {
+           method: "launch",
+           parameters: { 
+			"id": "com.webos.app.factorywin", 
+			params:{ "id": "executeFactory", "irKey": "inStart",}
+			},
+           onSuccess: function (inResponse) {
+               console.log("The app is launched");
+               //logmsg("The app is launched");
+               // To-Do something
+           },
+           onFailure: function (inError) {
+               console.log("Failed to launch the app");
+               console.log("[" + inError.errorCode + "]: " + inError.errorText);
+               //logmsg("Failed to launch the app");
+               //logmsg("[" + inError.errorCode + "]: " + inError.errorText);
+               // To-Do something
+               return;
+           }
+       });
+  </script>
+</body>
+
+</html>
