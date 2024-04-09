@@ -13,23 +13,23 @@
    "items": [
       {
             "title":"",
-            "headline": "ezAdjust SERVICE MENU",
+            "headline": "ezAdjust",
             "image": "",
-            "text": "ezAdjust, inStart, inStop",
+            "text": "SERVICE MENU",
             "action": "link:https://webosappclub.github.io/msx/ezadjust/ezadjust.html"
       },
       {
             "title":"",
-            "headline": "ezAdjust SERVICE MENU",
+            "headline": "inStart",
             "image": "",
-            "text": "inStart",
+            "text": "SERVICE MENU",
             "action": "link:https://webosappclub.github.io/msx/instart/instart.html"
       },
       {
             "title":"",
-            "headline": "ezAdjust SERVICE MENU",
+            "headline": "inStop",
             "image": "",
-            "text": "inStop",
+            "text": "SERVICE MENU",
             "action": "link:https://webosappclub.github.io/msx/instop/instop.html"
       }	  
    ]
