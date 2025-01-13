@@ -160,7 +160,7 @@
       "shortDescription": "app",
       "fullDescriptionUrl": "na"
     },
-   {
+    {
       "id": "spotify-beehive",
       "title": "Spotify",
       "iconUri": "https://webosappclub.github.io/apps/spotify-beehive/icon.png",
@@ -401,6 +401,28 @@
       },
       "shortDescription": "VK Video",
       "fullDescriptionUrl": "https://webosappclub.github.io/apps/vkvideo/"
-    }  
+    },
+    {
+      "id": "kinoflex.ru",
+      "title": "Flex",
+      "iconUri": "https://webosappclub.github.io/apps/kinoflex.ru/icon.png",
+      "manifest": {
+        "id": "kinoflex.ru",
+        "version": "1.8.0",
+        "type": "web",
+        "title": "Flex",
+        "appDescription": "ОНЛАЙН-КИНОТЕАТР FLEX",
+        "iconUri": "https://webosappclub.github.io/apps/kinoflex.ru/icon.png",
+        "sourceUrl": "https://kinoflex.ru",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/kinoflex.ru/kinoflex.ru_1.8.0_all.ipk",
+        "ipkHash": {
+          "sha256": "8d10a150bff387fe7c10f95da0047865d540b93b21e1b4149c468ac5b4a520b3"
+        },
+        "ipkSize": 4494
+      },
+      "shortDescription": "Flex",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/kinoflex.ru/"
+    }
   ]
 }
