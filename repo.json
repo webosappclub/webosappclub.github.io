@@ -1,3 +1,4 @@
+
 {
   "paging": {
     "page": 1,
@@ -78,18 +79,18 @@
       "iconUri": "https://webosappclub.github.io/apps/torrserv.matrix.app/icon.png",
       "manifest": {
         "id": "torrserv.matrix.app",
-        "version": "0.3.7",
+        "version": "0.3.8",
         "type": "native",
         "title": "Torrserver MatriX",
         "appDescription": "Torrent stream server for webOS",
         "iconUri": "https://webosappclub.github.io/apps/torrserv.matrix.app/icon.png",
         "sourceUrl": "https://github.com/YouROK/TorrServer",
         "rootRequired": false,
-        "ipkUrl": "https://webosappclub.github.io/apps/torrserv.matrix.app/torrserv.matrix.app_0.3.7_all.ipk",
+        "ipkUrl": "https://webosappclub.github.io/apps/torrserv.matrix.app/torrserv.matrix.app_0.3.8_all.ipk",
         "ipkHash": {
-          "sha256": "5d2518c4c91c7a69bcccb43250fb5ab88add866a6e06246c4d5b2022f2936c34"
+          "sha256": "d18d963b41d7959a5bd92c097ec7d13b3d973cd076e081020976957f59cf069e"
         },
-        "ipkSize": 17846714
+        "ipkSize": 17928266
       },
       "shortDescription": "Torrent stream server for webOS",
       "fullDescriptionUrl": "https://webosappclub.github.io/apps/torrserv.matrix.app/index.html"
