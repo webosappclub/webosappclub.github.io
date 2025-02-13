@@ -1,4 +1,3 @@
-
 {
   "paging": {
     "page": 1,
@@ -88,9 +87,9 @@
         "rootRequired": false,
         "ipkUrl": "https://webosappclub.github.io/apps/torrserv.matrix.app/torrserv.matrix.app_0.3.8_all.ipk",
         "ipkHash": {
-          "sha256": "d18d963b41d7959a5bd92c097ec7d13b3d973cd076e081020976957f59cf069e"
+          "sha256": "018587e73155ed0c6fa772070d232c58a5399176157e586b5db48497057dd684"
         },
-        "ipkSize": 17928266
+        "ipkSize": 17928264
       },
       "shortDescription": "Torrent stream server for webOS",
       "fullDescriptionUrl": "https://webosappclub.github.io/apps/torrserv.matrix.app/index.html"
