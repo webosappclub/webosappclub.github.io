@@ -31,24 +31,24 @@
     {
       "id": "lampa.tv",
       "title": "Lampa",
-      "iconUri": "https://webosappclub.github.io/apps/com.lampa.tv/icon.png",
+      "iconUri": "https://webosappclub.github.io/apps/lampa.tv/icon.png",
       "manifest": {
         "id": "lampa.tv",
         "version": "2.3.0",
         "type": "web",
         "title": "Lampa",
         "appDescription": "Lampa app",
-        "iconUri": "https://webosappclub.github.io/apps/com.lampa.tv/icon.png",
+        "iconUri": "https://webosappclub.github.io/apps/lampa.tv/icon.png",
         "sourceUrl": "https://github.com/yumata/lampa",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/yumata/lampa/releases/download/v1.4.1/lampa_v2.3.0.ipk",
+        "ipkUrl": "https://webosappclub.github.io/apps/lampa.tv/lampa_v2.3.0_all.ipk",
         "ipkHash": {
-          "sha256": "12d219f6b59d448728f945f494444d5ea85dcb496aab4f075425322e464681af"
+          "sha256": "04d204f5d7412351843d1eb0cab25fdd65f44abff2e20188b41ee24c2e00aa87"
         },
-        "ipkSize": 6522676
+        "ipkSize": 6372920
       },
       "shortDescription": "Movie catalog",
-      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.lampa.tv/index.html"
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/lampa.tv/index.html"
     },
     {
       "id": "icva",
