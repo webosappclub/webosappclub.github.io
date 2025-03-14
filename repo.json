@@ -41,7 +41,7 @@
         "iconUri": "https://webosappclub.github.io/apps/lampa.tv/icon.png",
         "sourceUrl": "https://github.com/yumata/lampa",
         "rootRequired": false,
-        "ipkUrl": "https://webosappclub.github.io/apps/lampa.tv/lampa_v2.3.0_all.ipk",
+        "ipkUrl": "https://webosappclub.github.io/apps/lampa.tv/lampa.tv_2.3.0_all.ipk",
         "ipkHash": {
           "sha256": "04d204f5d7412351843d1eb0cab25fdd65f44abff2e20188b41ee24c2e00aa87"
         },
