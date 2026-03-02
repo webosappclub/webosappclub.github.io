@@ -43,9 +43,9 @@
         "rootRequired": true,
         "ipkUrl": "https://webosappclub.github.io/apps/webos.xray.cfg/webos.xray.cfg_1.0.0_all.ipk",
         "ipkHash": {
-          "sha256": "edc75d1b0606f81c3b930457643b2f0c314c0e64d536390b4019b30d45735199"
+          "sha256": "6ed759b37ec6a1fd0bc964fd1ea3cc36d2a8769d199f39d01ae139ac4a1c9938"
         },
-        "ipkSize": 329544
+        "ipkSize": 20782082
       },
       "shortDescription": "Xray client",
       "fullDescriptionUrl": "https://webosappclub.github.io/apps/webos.xray.cfg/index.html"
