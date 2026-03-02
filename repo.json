@@ -29,6 +29,28 @@
       "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.ottplay.app/index.html"
     },
     {
+      "id": "webos.xray.cfg",
+      "title": "WebOS Xray CFG",
+      "iconUri": "https://webosappclub.github.io/apps/webos.xray.cfg/icon.png",
+      "manifest": {
+        "id": "webos.xray.cfg",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "WebOS Xray CFG",
+        "appDescription": "Xray client for webOS",
+        "iconUri": "https://webosappclub.github.io/apps/webos.xray.cfgG/icon.png",
+        "sourceUrl": "",
+        "rootRequired": true,
+        "ipkUrl": "https://webosappclub.github.io/apps/webos.xray.cfg/webos.xray.cfg_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "edc75d1b0606f81c3b930457643b2f0c314c0e64d536390b4019b30d45735199"
+        },
+        "ipkSize": 329544
+      },
+      "shortDescription": "Xray client",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/webos.xray.cfg/index.html"
+    },    
+    {
       "id": "lampa.tv",
       "title": "Lampa",
       "iconUri": "https://webosappclub.github.io/apps/lampa.tv/icon.png",
